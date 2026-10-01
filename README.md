@@ -107,6 +107,7 @@
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
 - [IsoFluent](https://isofluent.com) – Visual debugger for ISO 8583 and EMV protocols, supporting message inspection and transaction simulation.
+- [Checkout Anywhere Kit](https://checkout-anywhere-kit-landing.pages.dev) – Crypto Payment Link plus a client-side license-key gate for developers rejected or shut down by Stripe or Paddle.
 
 ## Compliance & Security
 
